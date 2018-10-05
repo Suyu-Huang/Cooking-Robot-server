@@ -1,0 +1,13 @@
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\bin\x64\Debug\ServerFramework.exe.config
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\bin\x64\Debug\ServerFramework.exe
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\bin\x64\Debug\ServerFramework.pdb
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\MainWindow.g.cs
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\App.g.cs
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\ServerFramework_MarkupCompile.cache
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\ServerFramework_MarkupCompile.lref
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\MainWindow.baml
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\ServerFramework.g.resources
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\ServerFramework.Properties.Resources.resources
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\ServerFramework.csproj.GenerateResource.Cache
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\ServerFramework.exe
+D:\C++ Practice\socket_Test\ServerFramework\ServerFramework\obj\x64\Debug\ServerFramework.pdb
